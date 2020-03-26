@@ -36,3 +36,7 @@ python3 ytvidedownload.py
 
 
 And you will see the downloaded video in your current directory :)
+
+
+![ScriptOut](https://github.com/yuvanist/ytvideodownload/blob/master/ScriptOut.png)
+
