@@ -31,7 +31,7 @@ pip3 install pytube
 ## To execute the script, clone it to your directory and go to the location in terminal:
 
 ```
-python3 ytvidedownload.py
+python3 ytvideodownload.py
 ```
 
 
